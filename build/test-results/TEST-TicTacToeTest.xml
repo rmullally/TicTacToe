@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="TicTacToeTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2016-01-22T17:51:15" hostname="Lenovo-PC" time="0.016">
+  <properties/>
+  <testcase name="testIfGameIsWonByOOnMiddleColDown" classname="TicTacToeTest" time="0.0"/>
+  <testcase name="testIfGameIsWonByXOnTopRowAcross" classname="TicTacToeTest" time="0.0"/>
+  <testcase name="testMarkXInUpperRightCorner" classname="TicTacToeTest" time="0.0"/>
+  <testcase name="testIfGameIsWonByXDiagonalTopLeftToBottomRight" classname="TicTacToeTest" time="0.0"/>
+  <testcase name="testMarkOInBottomLeftCorner" classname="TicTacToeTest" time="0.0"/>
+  <testcase name="testInitialBoardIsEmpty" classname="TicTacToeTest" time="0.0"/>
+  <testcase name="testMarkXInMiddleAndOInBottomRightCorner" classname="TicTacToeTest" time="0.016"/>
+  <system-out><![CDATA[
+    | |X
+   -----
+    | | 
+   -----
+    | | 
+
+
+    | | 
+   -----
+    |X| 
+   -----
+    | | 
+
+
+    | | 
+   -----
+    |X| 
+   -----
+    | |O
+
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
